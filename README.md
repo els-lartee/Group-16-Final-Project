@@ -7,20 +7,23 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Prerequisites](#prerequisites)
-4. [Installation](#installation)
-5. [Data Preparation](#data-preparation)
-6. [Model Training](#model-training)
+2. [link to the video](#link to the video)
+3. [Dataset](#dataset)
+4. [Prerequisites](#prerequisites)
+5. [Installation](#installation)
+6. [Data Preparation](#data-preparation)
+7. [Model Training](#model-training)
 8. [Live Detection](#live-detection)
-10. [link to the video](#link to the video)
-11. [Conclusion](#conclusion)
+9. [Conclusion](#conclusion)
 
 ---
 
 ## Introduction
 
-This project aims to create a system that recognizes sign language in real-time and converts the recognized signs into text and speech. The primary goal is to assist communication for individuals who use sign language by providing a tool that translates sign language gestures into understandable text and spoken words.
+This project aims to create a system that recognizes sign language in real time and converts the recognized signs into text and speech. The primary goal is to assist communication for individuals who use sign language by providing a tool that translates sign language gestures into understandable text and spoken words.
+
+## link to the video
+
 
 ## Dataset
 
@@ -47,12 +50,9 @@ Saving the Model: The trained model is saved for future use.
 ## Live Detection
 The model is tested live using a webcam to ensure it accurately recognizes and translates sign language gestures into text and voice.
 
-
-## link to the video
-
  
 ## Conclusion
-This project demonstrates the potential of using YOLOv8 for real-time sign language recognition and translation, this can aid  communication for individuals using sign language. Future enhancements and wider accessibility can improve its impact and usability.
+This project demonstrates the potential of using YOLOv8 for real-time sign language recognition and translation, and this can improve  communication for individuals using sign language as their only means of communicating. Thank you.
 
 
 ---

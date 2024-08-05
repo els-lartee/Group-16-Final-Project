@@ -26,7 +26,7 @@ This project aims to create a system that recognizes sign language in real-time 
 
 The dataset used in this project consists of images of hands performing various sign language gestures. Each gesture corresponds to a specific word. The dataset was annotated with bounding boxes around the hands and labeled with the corresponding word.
 
-*Link to Dataset: [Dataset Link](#)*
+*Link to Dataset: [[Dataset Link](https://drive.google.com/drive/folders/14vjb1WniH9Xc1E1bw7T7aiDPePYr0Yzx?usp=sharing)](#)*
 
 ## Prerequisites
 

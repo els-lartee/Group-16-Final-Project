@@ -6,8 +6,9 @@
 
 ## Table of Contents
 
+
 1. [Introduction](#introduction)
-2. [link to the video](#link to the video)
+2. [link to the video](#link-to-the-video)
 3. [Dataset](#dataset)
 4. [Prerequisites](#prerequisites)
 5. [Installation](#installation)

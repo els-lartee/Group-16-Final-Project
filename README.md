@@ -24,6 +24,7 @@
 This project aims to create a system that recognizes sign language in real time and converts the recognized signs into text and speech. The primary goal is to assist communication for individuals who use sign language by providing a tool that translates sign language gestures into understandable text and spoken words.
 
 ## link to the video
+https://youtu.be/0HBzqiFTleQ?feature=shared
 
 
 ## Dataset
